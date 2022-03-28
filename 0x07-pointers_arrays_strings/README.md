@@ -1,1 +1,1 @@
-multidimension arrays and pointer readme file
+multidimension array and double pointer readme file
